@@ -6,9 +6,9 @@
 **記事の作成**
 ```
     # 記事の作成
-    npx zenn new:article --slug <article-name>-tf63-<20XX0X0X>
+    pnpm exec zenn new:article --slug <article-name>-tf63-<20XX0X0X>
     # 記事のpreview
-    npx zenn preview
+    pnpm exec zenn preview
 ```
 
 **記事の公開**
